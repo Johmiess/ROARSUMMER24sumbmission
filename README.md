@@ -1,8 +1,7 @@
 # ROAR_Competition
 
-The submission by BHS Racing for the 2024 Spring Competition.
+The submission by Walnut ROAR for the 2024 Summer Competition.
 
-Official time: DNF
-Unofficial time: 332.25 seconds
+This repo is a fork and edited version of BHS Racing's sumbmission, massive credits for their work
 
 There is [documentation](https://roar.gitbook.io/roar-competition-documentation/) accompanying this repository.
